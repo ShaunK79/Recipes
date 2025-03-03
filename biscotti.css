@@ -1,0 +1,28 @@
+/* biscotti.html */
+
+body {
+    background-color: rgb(192, 218, 245);
+    color: rgb(29, 87, 141);
+    margin: 40px;
+    padding: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button {
+    background-color: bisque;
+    padding: 5px;
+    border: none;
+}
+
+button:hover {
+    background-color: beige;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(236, 14, 14);
+}
+
+li {
+    margin-bottom: 5px;
+}
